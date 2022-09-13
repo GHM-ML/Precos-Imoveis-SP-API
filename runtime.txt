@@ -1,0 +1,2 @@
+# Para Heroku
+python-3.10.7
