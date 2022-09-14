@@ -6,4 +6,7 @@ O programa foi distribuído no PyPI: https://pypi.org/project/Precos-Imoveis-SP/
 # Certifique-se de instalar tox em https://tox.wiki/en/latest/install.html
 tox -e run
 ```
+Ao abrir o link para a api criada, esta tela aparece:
+![img](https://imgur.com/Q63ZAUn)
+
 ## Documentação do código e README em construção
