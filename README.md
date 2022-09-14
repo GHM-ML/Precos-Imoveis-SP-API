@@ -7,6 +7,6 @@ O programa foi distribuído no PyPI: https://pypi.org/project/Precos-Imoveis-SP/
 tox -e run
 ```
 Ao abrir o link para a api criada, esta tela aparece:
-![img]https://i.imgur.com/Q63ZAUn.jpg[/img]
+![img](https://i.imgur.com/Q63ZAUn.jpg)
 
 ## Documentação do código e README em construção
